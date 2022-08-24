@@ -1,12 +1,12 @@
 {
-  "type": "service_account",
-  "project_id": "adcscaler-automation",
-  "private_key_id": "39232d3ea9e05a0f6a898e7f38a939d473af2e8d",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDAOkPurzSXRzpO\nhIf5z7pqlD4agQpf1wxKdE+5zhzbrieXtGrJit8Xb5JW8V5lSfHf/rOUifycwdM5\nUl/GRbNFWW5Y+NrZ9dmi/Yd91Y+GZGt4CwSLi34oT3O7HM5EThvce1E8a5oOrdWo\nRBEvvhcVyiEWOYroMdd3pbRPnH+CluZMnZhIFMk4JgWmHGMiNrWP/y5XtdZchi29\nqEkgE4xpivAxZiVyDjqt8Xa9n3XXv3z+/kulycmyXRoZrhPwAzRqkOuFu0+bEbOs\n0ObUyGzhO5meOyZpL6QKNQ0venZLNyZA13Dms1ibV7RuJFL8+ZAOgOTGEuy+qUuS\n+YD6ioHNAgMBAAECggEAJ895VbOd7+2dtviuI4/AowWIFhue7yndnwbXIxs7cUiw\nZPQFwK881ED0XQK4gsAtcm8wuGTadwmSSfcUJD83qTdkCdOiGY1X0TByEN67joD6\nG96mRpMxYb5QsNH+qvlFPmSgtqNvQLaCPwq3x3w2EjpuH0j0CnIWFm6wOOOnqb7j\nmwoRwT33IlpKO3QjfNVUQMqwpMnVRUyqoHR1XZhEwxQXvPJNUy1E36F+jgyiiDJL\ni+okfcF9OmVAw7YQz0ETM5ocwYdsBll7gBWxTJWZNGs5/ZOHdz0LPK3IQy+0WJyq\n7Z/NUP2iEHgFAv8piR7hqo/2eG/E6ICFDERiTNJiWQKBgQD74o0jb2YKfu3/9WfY\nEkqMOxisnFN1BBW3fbyOzf2+eu98UkuTVTVkjqd6JhzmS9lKU2HlV+XwiF2v9BSm\n9+vAGtdvfwH8BiCFGhpBtJAkek66uMlrJUhZ55N1CoDo2LvRNIOxAxn9HMaYx1qG\nXHGWo+7NHnOb07WLVzthgRCapQKBgQDDXjYbhdNLvl1cf+Y4ZyoO1rDin3vvrNq1\niVxICyoAvOfaluqByeI7rZ1D7eL1m7e6fdJOm19p8OZvPEJ6suaqaDXGGffzJLn/\nHK4tsNTfnOmSWLqgADliStywHPDFn9fNxiKWsfPJdqJRwAy7mqcXDZ6hPZbBh2YT\n7zumA14qCQKBgQCmkLgYeLAXvLwSCOx0vBPEC8hTTMT7monp3yHzpVBox87afWkw\nsqYuKw+g/Ncbi4jTV7Ri/u81Ulfx5QxLJaMmVBmmx2w+hqa2nf5C+O5g0OiDHXNE\ngVEI8tRWD24TjE8XFw0G3zAuavsBSMMaGsOahCmERuDYaPWigTrpTXn3aQKBgQCE\nZxHmXzDO0Wm2aZuduBThz5A7VfiJey0SANCApshFjcDX/JVbdnWTGltNkSfSakD+\n64ye51+njbKtyjoHq7z12gAvjKPkrYw8H7TPlFsAXPhSzT1VeDFrsu6TkFmApY58\nj34bgOiGLZdeLfizH+GDlyBdiD7mU5vTgLt9DCVB+QKBgQCp80Bd3KkeU5i/ppOB\nFZzKpi4SAeJWBE+M0Wc3g4PDHr3Ninr1OxB7PAKGHS11NPqF8SKDHXX5L6ZS5KnE\ncZ0bxwk1s9IcRbhh/9jE2KoMxx36i1beS3IsejYKs5Uk9oPkmYphZezUqsVeF+iX\nL3//MBZJaUozTsMhQyf3dqv9SA==\n-----END PRIVATE KEY-----\n",
-  "client_email": "adcscaler-automation@adcscaler-automation.iam.gserviceaccount.com",
-  "client_id": "115175326859837893281",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/adcscaler-automation%40adcscaler-automation.iam.gserviceaccount.com"
+  "type": 
+  "project_id": 
+  "private_key_id": 
+  "private_key":
+  "client_email": 
+  "client_id": 
+  "auth_uri": "https://accounts.google.com
+  "token_uri": "https://
+  "auth_provider_x509_cert_url": "htt
+  "client_x509_cert_url":
 }
